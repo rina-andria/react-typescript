@@ -1,3 +1,6 @@
+## React project setup with typescript
+An example of react + typescript setup with props and state passed to Home component using generics.
+The following commands walk you through the different required installation.
 ### Typescript global installation
 ```sh
 npm install -g typescript
@@ -33,3 +36,8 @@ Update jsx option to 'react':
 ...
 "jsx": "react"
 }
+## To run the sample
+```sh
+npm install
+npm start
+```
