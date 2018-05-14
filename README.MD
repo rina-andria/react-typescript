@@ -1,41 +1,33 @@
-#Setup
-
-## Typescript globally
-
+### Typescript global installation
+```sh
 npm install -g typescript
-
-## React
-
+```
+### React
+```sh
 npm install react react-dom --save
-
-## Install typings globally
-
+```
+### Install typings globally
+```sh
 npm install -g typings (sudo with mac)
-
-## Typings for react
-
+```
+### Typings for react
+```sh
 typings install dt~react dt~react-dom --save
-
-## Webpack and the loader
-
+```
+### Webpack and the loader
+```sh
 npm install webpack ts-loader --save-dev
-
-## Lite server (webpack-dev-server can be used as well)
-
-npm install lite-server --save-dev
-
-## Webpack workflow
-
-cf webbacl 4
-
-## Locally install typescript as Dev dependency
-
+```
+### Webpack workflow
+cf webpack 4
+### Locally install typescript as Dev dependency
+```sh 
 npm install typescript --save-dev // to keep a version of typescript for your project
-
-## Init ts compiler options
-
+```
+### Init ts compiler options
+```sh
 tsc --init
-
+```
 Update jsx option to 'react':
 {
 ...
