@@ -1,5 +1,5 @@
 ## React project setup with typescript
-An example of react + typescript setup with props and state passed to Home component using generics.
+An example of **react + typescript** setup with **props** and **state** passed to **Home** component using **_generics_**.
 The following commands walk you through the different required installation.
 ### Typescript global installation
 ```sh
