@@ -15,6 +15,12 @@ npm install -g typescript
 npm install react react-dom --save
 ```
 
+### Install @Types for react and react-dom
+
+```sh
+npm install @types/react @types/react --save-dev
+```
+
 ### Webpack and the loader
 
 ```sh
