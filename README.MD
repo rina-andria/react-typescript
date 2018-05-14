@@ -19,7 +19,7 @@ typings install dt~react dt~react-dom --save
 npm install webpack ts-loader --save-dev
 ```
 ### Webpack workflow
-cf webpack 4
+[cf webpack 4](https://webpack.js.org/concepts/)
 ### Locally install typescript as Dev dependency
 ```sh 
 npm install typescript --save-dev // to keep a version of typescript for your project
